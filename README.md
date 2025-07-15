@@ -16,6 +16,16 @@ Let’s build meaningful and reliable tech together
 
 ---
 
+## 🚀 Currently working on
+
+🎧​ Public Voices (_in progress_): App streaming public domain audiobooks via Librivox API.
+
+🏛️​ My Museum (_upcoming_) : Paris Musées API app with favorites, map, and ticket booking.
+
+📖​ Book Flow (_upcoming_) : Admin panel managing bookstore inventory, customers, and orders.
+
+---
+
 ## 🛠️ Tech Stack
 
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -36,17 +46,8 @@ Let’s build meaningful and reliable tech together
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![visual studio code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
 
-## 🚀 Currently working on
 
-🎧​ Public Voices (_in progress_): App streaming public domain audiobooks via Librivox API.
-
-🏛️​ My Museum (_upcoming_) : Paris Musées API app with favorites, map, and ticket booking.
-
-📖​ Book Flow (_upcoming_) : Admin panel managing bookstore inventory, customers, and orders.
-
-Stay tuned !
 
 
 
