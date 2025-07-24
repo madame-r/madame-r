@@ -16,7 +16,7 @@ Let’s build meaningful and reliable tech together
 
 ---
 
-## 🚀 Currently working on
+## 🚀 Projects
 
 🎧​ Public Voices (_in progress_): App streaming public domain audiobooks via Librivox API.
 
