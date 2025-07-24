@@ -9,7 +9,7 @@ With a professional background in communication and education, I’m now buildin
 Native French speaker | Fluent in English  
 - 🤝 Thrive in multicultural environments  
 - 💻​ Remote-friendly
-- ✈️ Open to relocation if package provided
+- ✈️ Open to relocation if support provided
 
 **QUALITY ● TRANSPARENCY ● TRUST**  
 Let’s build meaningful and reliable tech together
