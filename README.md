@@ -11,6 +11,9 @@ Native French speaker | Fluent in English
 - 💻​ Remote-friendly
 - ✈️ Open to relocation if support provided
 
+
+---
+
 **QUALITY ● TRANSPARENCY ● TRUST**  
 Let’s build meaningful and reliable tech together
 
