@@ -4,6 +4,11 @@ With a professional background in communication and education, I’m now buildin
 
 ---
 
+**QUALITY ● TRANSPARENCY ● TRUST**  
+Let’s build meaningful and reliable tech together
+
+---
+
 ## 🌍 About Me
 
 Native French speaker | Fluent in English  
@@ -14,18 +19,13 @@ Native French speaker | Fluent in English
 
 ---
 
-**QUALITY ● TRANSPARENCY ● TRUST**  
-Let’s build meaningful and reliable tech together
-
----
-
 ## 🚀 Portfolio : update in progress
 
-🎧​ Public Voices (_in progress_): App streaming public domain audiobooks via Librivox API.
+🎧​ Public Voices : App streaming public domain audiobooks via Librivox API.  [ [Repository](https://github.com/madame-r/symfony_public_voices.git) ]
 
-🏛️​ My Museum (_upcoming_) : Paris Musées API app with favorites, map, and ticket booking.
+🏛️​ My Museum : Paris Musées API app with favorites, map, and ticket booking. (_in progress_)
 
-📖​ Book Flow (_upcoming_) : Admin panel managing bookstore inventory, customers, and orders.
+📖​ Book Flow : Admin panel managing bookstore inventory, customers, and orders. (_upcoming_)
 
 ---
 
