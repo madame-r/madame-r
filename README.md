@@ -23,7 +23,7 @@ Native French speaker | Fluent in English
 
 🎧​ Public Voices : App streaming audiobooks via Librivox API.  [ [Repository](https://github.com/madame-r/symfony_public_voices.git) ]
 
-🏛️​ Art Facts : Visual analytics dashboard using data from the Paris Musées API. (_in progress_)
+🏛️​ Art Facts : Visual analytics dashboard using data from Paris Musées API. (_in progress_)
 
 📖​ Book Flow : Admin panel managing bookstore inventory, customers, and orders. (_upcoming_)
 
