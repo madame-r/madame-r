@@ -21,9 +21,9 @@ Native French speaker | Fluent in English
 
 ## 🚀 Portfolio : update in progress
 
-🎧​ Public Voices : App streaming public domain audiobooks via Librivox API.  [ [Repository](https://github.com/madame-r/symfony_public_voices.git) ]
+🎧​ Public Voices : App streaming audiobooks via Librivox API.  [ [Repository](https://github.com/madame-r/symfony_public_voices.git) ]
 
-🏛️​ My Museum : Paris Musées API app with favorites, map, and ticket booking. (_in progress_)
+🏛️​ Art Facts : Visual analytics dashboard using data from the Paris Musées API. (_in progress_)
 
 📖​ Book Flow : Admin panel managing bookstore inventory, customers, and orders. (_upcoming_)
 
