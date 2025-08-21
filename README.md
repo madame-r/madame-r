@@ -21,9 +21,9 @@ Native French speaker | Fluent in English
 
 ## 🚀 Portfolio : update in progress
 
-🎧​ Public Voices : App streaming audiobooks via Librivox API.  [ [Repository](https://github.com/madame-r/symfony_public_voices.git) ]
+🎧​ Public Voices : App streaming audiobooks via Librivox API.  [ [Repository](https://github.com/madame-r/symfony_public_voices) ]
 
-🏛️​ Art Facts : Visual analytics dashboard using data from Paris Musées API. (_in progress_)
+🏛️​ Art Facts : Visual analytics dashboard using data from Paris Musées API. [ [Repository](https://github.com/madame-r/react_art_facts) ]
 
 📖​ Book Flow : Admin panel managing bookstore inventory, customers, and orders. (_upcoming_)
 
@@ -33,6 +33,8 @@ Native French speaker | Fluent in English
 
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![doctrine orm](https://img.shields.io/badge/doctrine-fa6a3c?style=for-the-badge&logo=doctrine&logoColor=white)
+![postgresql badge](  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![prisma badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ![symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
