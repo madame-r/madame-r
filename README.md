@@ -32,8 +32,8 @@ Native French speaker | Fluent in English
 ## 🛠️ Tech Stack
 
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![doctrine orm](https://img.shields.io/badge/doctrine-fa6a3c?style=for-the-badge&logo=doctrine&logoColor=white)
 ![postgresql badge](  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![doctrine orm](https://img.shields.io/badge/doctrine-fa6a3c?style=for-the-badge&logo=doctrine&logoColor=white)
 ![prisma badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ![symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
