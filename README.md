@@ -25,7 +25,7 @@ Native French Speaker | Fluent in English
 
 🏛️​ Art Facts : Visual analytics dashboard using data from Paris Musées API. [ [Repository](https://github.com/madame-r/react_art_facts) ]
 
-📖​ Book Flow : Admin panel managing bookstore inventory, customers, and orders. (_upcoming_)
+📖​ Book Flow : Admin panel managing bookstore inventory, customers, and orders. (_in progress_)
 
 ---
 
