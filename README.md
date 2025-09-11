@@ -19,13 +19,13 @@ Native French Speaker | Fluent in English
 
 ---
 
-## 🚀 Portfolio : update in progress
+## 🚀 Portfolio
 
 🎧​ Public Voices : App streaming audiobooks via Librivox API.  [ [Repository](https://github.com/madame-r/symfony_public_voices) ]
 
 🏛️​ Art Facts : Visual analytics dashboard using data from Paris Musées API. [ [Repository](https://github.com/madame-r/react_art_facts) ]
 
-📖​ Book Flow : Role-based auth, book management, automated PHPUnit tests, and CI pipeline. (_in progress_)
+📖​ Book Flow : Role-based auth, book management, automated PHPUnit tests, and CI pipeline. [ [Repository](https://github.com/madame-r/laravel_bookflow) ]
 
 ---
 
