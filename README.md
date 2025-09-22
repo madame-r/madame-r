@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=016e7a&width=435&lines=%F0%9F%91%8B+Bonjour+tout+le+monde)](https://git.io/typing-svg)
 
-With a background in cultural anthropology and business management, I’m now building my career as a Software Developer, back-end oriented with a focus on APIs and data workflows. I'm currently working on personal projects to strengthen my skills and support this career transition.
+With a background in cultural anthropology and business management, I’m now building my career as a Back-end Developer with a focus on APIs and data workflows. I'm currently working on personal projects to strengthen my skills and support this career transition.
 
 ---
 
